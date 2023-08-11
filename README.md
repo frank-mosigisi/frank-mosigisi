@@ -2,10 +2,15 @@
 
 Welcome to my corner of GitHub! 🚀 Connect with me on [LinkedIn](https://www.linkedin.com/in/frankline-mosigisi/) to stay in the loop.
 🔭 Currently, I'm sharpening my skills for cloud security roles.
+
 🌱 On a constant quest for knowledge in the cybersecurity universe.
+
 👯 Collaboration? Absolutely! Especially on projects touching cloud security and application testing.
+
 🤔 If you need help or insights on security, testing, or programming, I'm your guy.
+
 📫 Reach me via email at Frankmosigisi427@gmail.com or find me on [GitLab](https://gitlab.com/frank-mosigisi).
+
 ⚡ Fun fact: Uncovering vulnerabilities is my way of contributing to a safer digital world!
 
 ## Skills in My Arsenal
