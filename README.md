@@ -2,9 +2,9 @@
 
 Welcome to my corner of GitHub! 🚀 Connect with me on [LinkedIn](https://www.linkedin.com/in/frankline-mosigisi/) to stay in the loop.
 🔭 Currently, I'm sharpening my skills for cloud security roles.
-##
+
 🌱 On a constant quest for knowledge in the cybersecurity universe.
-##
+
 👯 Collaboration? Absolutely! Especially on projects touching cloud security and application testing.
 
 🤔 If you need help or insights on security, testing, or programming, I'm your guy.
@@ -17,15 +17,18 @@ Welcome to my corner of GitHub! 🚀 Connect with me on [LinkedIn](https://www.l
 - Manual & Automated Testing 🕵️‍♂️
 - Vulnerability Assessment 🛡️
 - Jira, DevSecOps 🚀
-- Playwright/Robot Framework, Postman 🛠️
+- Playwright Framework, Postman 🛠️
 - JMeter, Burp Suite 🔧
 - Application Security, Penetration Testing 🌐
 - Git, Test Link 📊
 - SIEM & SOAR Tools (Microsoft Sentinel, Defender) 🛡️
-- Programming (Bash) 💻
+- Programming (Bash, Javascript) 💻
 
-## Seeking Cloud Roles
-I'm actively seeking opportunities in cloud security roles, where I can leverage my skills to protect data and systems in cloud environments. If you're on the lookout for a passionate security engineer with a knack for testing and securing cloud systems, let's chat!
+## Exploring Cloud Opportunities
+As I continue to grow, I'm naturally drawn to roles in cloud security. My experience in manual and automated testing, vulnerability assessment, and penetration testing aligns well with the demands of cloud security. I'm excited about the prospect of contributing to securing cloud environments in a meaningful way.
+
+If you're on the lookout for a passionate security engineer with a knack for testing and securing cloud systems, I'd love to have a conversation. Let's chat and see how we can work together to enhance the security of cloud infrastructures! 💪☁️
+
 
 ## Certifications & Projects
 - Cybersecurity Architect Expert (SC 1OO), Microsoft
